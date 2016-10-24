@@ -1,0 +1,32 @@
+[
+    {
+        "title": "The Thinker",
+        "location": "Detroit Insitute of Arts",
+        "material": "Bronze",
+        "artist": "Alexis Rudier, Auguste Rodin",
+        "date": "Made in 1903"
+    },
+    {
+        "title": "Spirit of Detroit",
+        "location": "Coleman A. Young Municipal Center"
+    },
+    {
+        "title": "\"Iron teachng rocks how to rust\"",
+        "location": "African Bead museum",
+        "material": "Rock, Iron, and miscellaneous",
+        "artist": "Olayami Dabls",
+        "date": "Unknown date"
+    },
+    {
+        "title": "Monument to Joe Louis \"The Fist\"",
+        "material": "Robert Graham",
+        "artist": "1986-10-16T04:00:00.000Z"
+    },
+    {
+        "title": "Antoine de la Mothe Cadillac Statue",
+        "location": "Heart Plaza",
+        "material": "Bronze",
+        "artist": "William Kieffer and Ann Feeley",
+        "date": 2001
+    }
+]
