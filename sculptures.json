@@ -2,33 +2,1070 @@
     {
         "title": "The Thinker",
         "location": "Detroit Insitute of Arts",
-        "material": "Bronze",
+        "material": "bronze",
         "artist": "Alexis Rudier, Auguste Rodin",
-        "date": "Made in 1903"
+        "date": 1903,
+        "race": "White"
     },
     {
         "title": "Spirit of Detroit",
         "location": "Coleman A. Young Municipal Center",
-        "material": "Bronze"
+        "material": "bronze",
+        "artist": "Marshall Fredericks",
+        "race": "White"
     },
     {
-        "title": "\"Iron teachng rocks how to rust\"",
+        "title": "School of Iron",
         "location": "African Bead museum",
-        "material": "Rock, Iron, and miscellaneous",
+        "material": "rock, iron, and miscellaneous",
         "artist": "Olayami Dabls",
-        "date": "Unknown date"
+        "date": "N/A",
+        "race": "Black"
     },
     {
         "title": "Monument to Joe Louis \"The Fist\"",
-        "material": "Bronze",
+        "material": "bronze",
         "artist": "Robert Graham",
-        "date": "1986-10-16T04:00:00.000Z"
+        "date": 1986,
+        "race": "White"
     },
     {
         "title": "Antoine de la Mothe Cadillac Statue",
-        "location": "Heart Plaza",
-        "material": "Bronze",
+        "location": "Hart Plaza",
+        "material": "bronze",
         "artist": "William Kieffer and Ann Feeley",
-        "date": 2001
+        "date": 2001,
+        "race": "White"
+    },
+    {
+        "title": "Dodge Memorial Fountain",
+        "location": "Hart Plaza",
+        "material": "stainless steel",
+        "artist": "Isamu Noguchi",
+        "date": 1981,
+        "race": "Asian"
+    },
+    {
+        "title": "One",
+        "location": "City Sculpture Park ",
+        "material": "Welding steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Two",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Three",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Four",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Five",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Six",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Seven",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Eight",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Nine",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Ten",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Eleven",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Twelve",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Thirteen",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Fourteen",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Fifteen",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Sixteen",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Seventeen",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Eighteen",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Nineteen",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Twenty",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Twenty One",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Twenty Two",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Twenty Three",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Twenty Four",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Twenty Five",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Twenty Six",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Twenty Seven",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Twenty Eight",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Twenty Nine",
+        "location": "City Sculpture Park ",
+        "material": "welded steel",
+        "artist": "Robert Sestok",
+        "date": 1980,
+        "race": "White"
+    },
+    {
+        "title": "Ride it Sculpture Park",
+        "location": "North Detroit",
+        "material": "Concrete ",
+        "artist": "Evergreen Skateparks",
+        "date": 2012,
+        "race": "n/a"
+    },
+    {
+        "title": "Gordie Howe Statue",
+        "location": "Joe Louis Arena",
+        "material": "bronze",
+        "artist": "Omri Amrany",
+        "date": 2007,
+        "race": "white"
+    },
+    {
+        "title": "Ty Cobb",
+        "location": "Comerica Park",
+        "material": "stainless steel",
+        "artist": "Omri Amrany",
+        "race": "white"
+    },
+    {
+        "title": "Charlie Gehringer",
+        "location": "Comerica Park",
+        "material": "stainless steel",
+        "artist": "Omri Amrany",
+        "race": "white"
+    },
+    {
+        "title": "Hank Greenberg",
+        "location": "Comerica Park",
+        "material": "stainless steel",
+        "artist": "Omri Amrany",
+        "race": "white"
+    },
+    {
+        "title": "Willie Horton",
+        "location": "Comerica Park",
+        "material": "stainless steel",
+        "artist": "Omri Amrany",
+        "race": "white"
+    },
+    {
+        "title": "Al Kaline",
+        "location": "Comerica Park",
+        "material": "stainless steel",
+        "artist": "Omri Amrany",
+        "race": "white"
+    },
+    {
+        "title": "Hal Newhouser",
+        "location": "Comerica Park",
+        "material": "stainless steel",
+        "artist": "Omri Amrany",
+        "race": "white"
+    },
+    {
+        "title": "Atom Gazelle",
+        "material": "Stainless steel",
+        "artist": "Richard Bennett",
+        "date": 1991
+    },
+    {
+        "title": "Ludington Plaza Statues",
+        "location": "Wayne State University",
+        "material": "Sandstone",
+        "artist": "Julius Theodore Melchers",
+        "date": "Early 1870s"
+    },
+    {
+        "title": "James J. Brady Memorial",
+        "location": "Belle Isle",
+        "material": "Bronze and Granite",
+        "artist": "Samuel Cashwan",
+        "date": 1928
+    },
+    {
+        "title": "Normanno Wedge I",
+        "location": "College for Creative Studies Ford Campus",
+        "material": "Cor-tan steel",
+        "artist": "Beverly Popper",
+        "date": 1983
+    },
+    {
+        "title": "Statue of Robert Burns",
+        "location": "Cass Park",
+        "material": "Bronze",
+        "artist": "N/A",
+        "date": 1891
+    },
+    {
+        "title": "Michigan Soldiers and Sailors Monument",
+        "location": "Campus Martius",
+        "material": "Bronze and Sandstone",
+        "artist": "Randolph Rogers",
+        "date": 1872
+    },
+    {
+        "title": "Shinola Detroit Clocks",
+        "location": "Taubman Campus",
+        "material": "Staneless steel",
+        "artist": "Shinola",
+        "date": "n/a",
+        "race": "n/a"
+    },
+    {
+        "title": "Mayor Hazen Pingree Statue",
+        "location": "Woodward Avenue and\nWest Adams Street",
+        "material": "Bronze",
+        "artist": "Rudolph Schwarz",
+        "date": 1904,
+        "race": "White"
+    },
+    {
+        "title": "Boogaloo",
+        "location": "Detroit RiverWalk",
+        "material": "Mix Media",
+        "artist": "Tyree Guyton",
+        "race": "Black"
+    },
+    {
+        "title": "Side Talking Kay",
+        "location": "Detroit RiverWalk",
+        "material": "Mix Media",
+        "artist": "Tyree Guyton",
+        "race": "Black"
+    },
+    {
+        "title": "Free Form 4",
+        "location": "Detroit RiverWalk",
+        "material": "steel",
+        "artist": "Robert Sistok",
+        "race": "White"
+    },
+    {
+        "title": "Midmiem",
+        "location": "Detroit RiverWalk",
+        "material": "steel",
+        "artist": "Sasson Soffer",
+        "race": "Middle Eastern"
+    },
+    {
+        "title": "Statues of General Anthony Wayne, Antoine De La Mothe Cadillac,\nChief Pontiac and Robert Navarre",
+        "location": "Bronze",
+        "material": "Book Cadillac Hote",
+        "artist": "n/a",
+        "date": 1924,
+        "race": "n/a"
+    },
+    {
+        "title": "Mural on the west side of the Cass Motors Building",
+        "location": "Paint",
+        "material": "Midtown",
+        "artist": "Michael Burdick",
+        "date": 2015,
+        "race": "white"
+    },
+    {
+        "title": "Gazelle",
+        "artist": "Richard Bennett",
+        "date": 1991,
+        "race": "Black"
+    },
+    {
+        "title": "Tower of Freedom/Underground Railroad Monument",
+        "artist": "Ed Dwight",
+        "date": 2001,
+        "race": "Black"
+    },
+    {
+        "title": "Sunbeam Sculpture",
+        "artist": "Robert Sestok",
+        "date": 2011,
+        "race": "White"
+    },
+    {
+        "title": "Spirit Renewal",
+        "artist": "Charles McGee",
+        "date": 2011,
+        "race": "Black"
+    },
+    {
+        "title": "Spanish-American War Commerative",
+        "location": "Belle Isle",
+        "material": "Bronze",
+        "artist": " Allen G. Newman",
+        "date": 1932,
+        "race": "White"
+    },
+    {
+        "title": "Joe Louis Sculpture",
+        "location": "Cobo Hall",
+        "material": "Bronze",
+        "artist": "Ed Hamilton",
+        "date": 1987,
+        "race": "Black"
+    },
+    {
+        "title": "Statue of General Alexander Macomb",
+        "location": "Downtown",
+        "material": "Bronze",
+        "artist": " Adolph Alexander Weinman",
+        "date": 1906,
+        "race": "White"
+    },
+    {
+        "title": "Little Water Girl Statue",
+        "location": "Belle Isle",
+        "material": "Bronze",
+        "artist": "George H. Wade",
+        "date": 1917
+    },
+    {
+        "title": "Demetrius Ypsilanti Bust",
+        "artist": "Christopher Nastos",
+        "date": 1928,
+        "race": "white"
+    },
+    {
+        "title": "William Livingstone Memorial Lighthouse",
+        "artist": "Albert Kahn",
+        "race": "white"
+    },
+    {
+        "title": "Wings of Learning",
+        "location": "Wayne State University",
+        "artist": "Alden Smith",
+        "date": "n/a",
+        "race": "n/a"
+    },
+    {
+        "title": "Statuary and Memorial Commemorating Detroit's Role in \nthe Underground Railroad",
+        "location": "Hart Plaza ",
+        "artist": "Ed Dwight",
+        "race": "Black"
+    },
+    {
+        "title": "Upfront",
+        "location": "College for Creative Studies Ford Campus",
+        "artist": "Anthony Caro",
+        "race": "White"
+    },
+    {
+        "title": "Hand of God Sculpture Honoring Frank Murphy",
+        "location": "Downtown Detroit",
+        "artist": "Carl Milles",
+        "date": 1949,
+        "race": "White"
+    },
+    {
+        "title": "Guyton's Heidelberg Project",
+        "location": "Heidelberg Street",
+        "artist": "Tyree Guyton",
+        "race": "Black"
+    },
+    {
+        "title": "Father Gomidas Vartabed Statue",
+        "location": "Jefferson-Woodward intersection,",
+        "artist": "Arto Tchakmakchian",
+        "date": 1981,
+        "race": "Middle-Eastern"
+    },
+    {
+        "title": "Tribute to General Anthony Wayne",
+        "location": "Wayne State University",
+        "artist": "Sergio DeGiusti",
+        "date": 1969,
+        "race": "White"
+    },
+    {
+        "title": "Untitled (Sculpture on Belle Isle)",
+        "location": "Belle Isle",
+        "artist": "Stanley Dolega",
+        "date": 1972,
+        "race": "White"
+    },
+    {
+        "title": "Untitled ",
+        "location": "Wayne State University",
+        "artist": "Edward Sykes",
+        "date": 2001,
+        "race": "White"
+    },
+    {
+        "title": "United Foundation Torch",
+        "location": "Downtown Detroit",
+        "artist": "Dario Bonucchi",
+        "date": 1969,
+        "race": "n/a"
+    },
+    {
+        "title": "White",
+        "location": "Belle Isle",
+        "artist": "Herman Martzen",
+        "date": 1907,
+        "race": "White"
+    },
+    {
+        "title": "Victory Eagle",
+        "location": "UAW-Ford National Programs ",
+        "artist": "Marshall Fredericks",
+        "date": 1950,
+        "race": "White"
+    },
+    {
+        "title": "Father Clement Kern Statue",
+        "location": "Corktown",
+        "artist": "Edward Chasney",
+        "date": 1986,
+        "race": "White"
+    },
+    {
+        "title": "Jeune Fille et sa Suite",
+        "location": "Detroit Insitute of Arts",
+        "artist": "Alexander Calder",
+        "date": 1970,
+        "race": "White"
+    },
+    {
+        "title": "Horse Sculpture",
+        "location": "College for Creative Studies Ford Campus",
+        "artist": "raymond duchamp-villon",
+        "date": 1930,
+        "race": "White"
+    },
+    {
+        "title": "Hip and Spine (Stone Chair Setting)",
+        "location": "College for Creative Studies Ford Campus",
+        "artist": "Richard Nonas",
+        "date": 1997,
+        "race": "White"
+    },
+    {
+        "title": "Helios Trail",
+        "location": "Wayne State University",
+        "artist": "Bruce White",
+        "date": 1989,
+        "race": "White"
+    },
+    {
+        "title": "Statue of Major General Alpheus Starkey Williams",
+        "location": "Belle Isle",
+        "artist": "Henry Merwin Shrady",
+        "date": 1921,
+        "race": "White"
+    },
+    {
+        "title": "Obelisk Commemorating Judge Augustus Woodward’s \nPlan for the City of Detroit",
+        "location": "Grand Circus Park",
+        "artist": "n/a",
+        "date": 2011,
+        "race": "n/a"
+    },
+    {
+        "title": "Statue of Abraham Lincoln",
+        "location": "Library Park",
+        "artist": "Alfonso Pelzer",
+        "date": 1895,
+        "race": "White"
+    },
+    {
+        "title": "Le Fleuve et La Garonne",
+        "location": "Detroit Insitute of Arts",
+        "artist": "Antoine Coysevox",
+        "date": 1688,
+        "race": "White"
+    },
+    {
+        "title": "Leaping Gazelle",
+        "location": "Detroit Zoo",
+        "artist": "Marshall Fredericks",
+        "date": 1939,
+        "race": "White"
+    },
+    {
+        "title": "Statue of General Thaddeus Kosciuszko",
+        "location": "Michigan Avenue",
+        "artist": "Leonard Marconi",
+        "date": 1889,
+        "race": "White"
+    },
+    {
+        "title": "Bust of Mikolaj Kopernik",
+        "location": "Detroit Public Library",
+        "artist": "Ferenc Varga",
+        "date": 1973,
+        "race": "White"
+    },
+    {
+        "title": "William Cotter Maybury Monument",
+        "location": "Grand Circus Park",
+        "artist": "Adolph Alexander Weinman",
+        "date": 1912,
+        "race": "White"
+    },
+    {
+        "title": "Ludington Plaza Statues",
+        "location": "Wayne State University",
+        "artist": "Julius Theodore Melchers",
+        "date": "1870s",
+        "race": "White"
+    },
+    {
+        "title": "Russell Alexander Alger Memorial Fountain",
+        "location": "Grand Circus Park",
+        "artist": "Daniel Chester French",
+        "date": 1921,
+        "race": "White"
+    },
+    {
+        "title": "Stevens Thompson Mason Statue",
+        "location": "Downtown Detroit",
+        "artist": "Albert Weinger",
+        "date": 1908,
+        "race": "n/a"
+    },
+    {
+        "title": "Merrill Fountain",
+        "location": "Historic District",
+        "artist": " John M. Carrere",
+        "date": 1901,
+        "race": "White"
+    },
+    {
+        "title": "Bagley Memorial Fountain",
+        "location": "Campus Martius",
+        "artist": "Henry Hobson Richardson",
+        "date": 1887,
+        "race": "White"
+    },
+    {
+        "title": "Levi L. Barbour Memorial Fountain",
+        "location": "Belle Isle",
+        "artist": "Marshall Fredericks",
+        "date": 1936,
+        "race": "White"
+    },
+    {
+        "title": " Monroe Monument Marker/Woodward Monument Marker",
+        "location": "Campus Martius",
+        "artist": "Herb Babcock",
+        "date": 2004,
+        "race": "white"
+    },
+    {
+        "title": "Nordkyn",
+        "location": "Wayne State University",
+        "artist": "Robert McKurray",
+        "date": 1974,
+        "race": "n/a"
+    },
+    {
+        "title": "Normanno Wedge I",
+        "location": "College for Creative Studies Ford Campus",
+        "artist": "Beverly Popper",
+        "date": 1983,
+        "race": "White"
+    },
+    {
+        "title": "Charles Brook’s Memorial Peace Fountain",
+        "location": "Detroit River",
+        "artist": "n/a",
+        "date": 1977,
+        "race": "n/a"
+    },
+    {
+        "title": "Nancy Brown Peace Carillon",
+        "location": "Belle Isle",
+        "artist": " Clarence E. Day",
+        "date": 1940,
+        "race": "n/a"
+    },
+    {
+        "title": "Commodore Oliver Hazard Perry’s Canons",
+        "location": "Belle Isle",
+        "artist": "n/a",
+        "date": 1970,
+        "race": "n/a"
+    },
+    {
+        "title": "Nymph and Eros",
+        "location": "Detroit Insitute of Arts",
+        "artist": "n/a",
+        "date": "n/a",
+        "race": "n/a"
+    },
+    {
+        "title": "Pewabic Pottery Company",
+        "location": "East Jefferson",
+        "artist": "William B. Stratton",
+        "date": 1907,
+        "race": "White"
+    },
+    {
+        "title": "Phylon",
+        "location": "Hart Plaza ",
+        "artist": "Isamu Noguchi",
+        "date": 1973,
+        "race": "Asian"
+    },
+    {
+        "title": "Statue of Pope John Paul II",
+        "location": "Pope Park Hammtramck",
+        "artist": "Ferenc Varga",
+        "date": 1982,
+        "race": "White"
+    },
+    {
+        "title": "Brigadier General Casmir Pulaski Statue",
+        "location": "Downtown Detroit",
+        "artist": "Ferenc Varga",
+        "date": 1970,
+        "race": "White"
+    },
+    {
+        "title": "Father Solanus Casey Statue",
+        "location": "St Bonaventure Monastary",
+        "artist": "n/a",
+        "date": "n/a",
+        "race": "n/a"
+    },
+    {
+        "title": "Bust of Lewis Cass",
+        "location": "Detroit Public Library",
+        "artist": " Thomas D. Jones",
+        "date": 1845,
+        "race": "n/a"
+    },
+    {
+        "title": "Starting Point of the July, 1967 Racial Riot",
+        "location": "9125 Twelfth Street at the corner of Twelfth and Clairmont",
+        "artist": "Jack Ward",
+        "race": "n/a"
+    },
+    {
+        "title": "Horace H. Rackham Memorial Fountain",
+        "location": "Detroit Zoo",
+        "artist": "Corrado Joseph Parducci",
+        "race": "White"
+    },
+    {
+        "title": "Father Gabriel Richard Statue",
+        "location": "Belle Isle",
+        "artist": "Leonard D. Jungwirth",
+        "date": 1940,
+        "race": "White"
+    },
+    {
+        "title": "The River of Knowledge Mosaic",
+        "location": "Detroit Public Library",
+        "artist": "Millard Sheets",
+        "date": 1963,
+        "race": "White"
+    },
+    {
+        "title": "Bust of Christopher Columbus",
+        "location": "Downtown Detroit",
+        "artist": "Augusto Rivalta",
+        "date": 1910,
+        "race": "White"
+    },
+    {
+        "title": "Bust of Christoforo Columbo",
+        "location": "Oakman Boulevard ",
+        "artist": "Edward Chesney",
+        "date": 1975,
+        "race": "White"
+    },
+    {
+        "title": "Johann Friedrich von Schiller Sculpture",
+        "location": "Belle Isle",
+        "artist": "Herman Martzen",
+        "date": 1907,
+        "race": "White"
+    },
+    {
+        "title": "Continuity Tower",
+        "location": "West Grand Boulevard and Third Street",
+        "artist": "Robert Sestok",
+        "date": 1990,
+        "race": "White"
+    },
+    {
+        "title": "The James Scott Fountain",
+        "location": "Belle Isle",
+        "artist": "Cass Gilbert",
+        "date": 1925,
+        "race": "White"
+    },
+    {
+        "title": "George Armstrong Custer Equestrian Monument",
+        "location": "North Monroe Street",
+        "artist": "Edward C. Potter",
+        "date": 1992,
+        "race": "White"
+    },
+    {
+        "title": "Sentinel X",
+        "location": "Downtown Detroit",
+        "artist": "Morris Brose",
+        "date": 1979,
+        "race": "N/a"
+    },
+    {
+        "title": "Dancing Maidens",
+        "location": "Wayne State University",
+        "artist": "Oskar Stonorov",
+        "date": 1973,
+        "race": "White"
+    },
+    {
+        "title": "Partners: The Detroit Evening News Sculpture",
+        "location": "Belle Isle",
+        "artist": "Frederick Dunbar",
+        "date": 1897,
+        "race": "White"
+    },
+    {
+        "title": "The Reverend Samuel Francis Smith Memorial Flagpole",
+        "location": "Belle Isle",
+        "artist": "Kahn",
+        "date": 1932,
+        "race": "White"
+    },
+    {
+        "title": "Passo di Danza",
+        "location": "One Woodward Building",
+        "artist": "Giacoma Manzu",
+        "date": 1962,
+        "race": "White"
+    },
+    {
+        "title": "Horace E. Dodge and Son Memorial Fountain",
+        "location": "Hart Plaza ",
+        "artist": "Isamu Noguchi",
+        "date": 1973,
+        "race": "Asian"
+    },
+    {
+        "title": "Thomas Alva Edison Memorial Fountain",
+        "location": "Grand Circus Park",
+        "artist": "n/a",
+        "date": 1984,
+        "race": "n/a"
+    },
+    {
+        "title": "The Entrance",
+        "location": "Harmonie Park",
+        "artist": "John Piet",
+        "date": 1975
+    },
+    {
+        "title": "Henry Ford Statue",
+        "location": "Henry Ford Centennial Library",
+        "artist": "Marshall Fredericks",
+        "date": 1975,
+        "race": "White"
+    },
+    {
+        "title": "Mozarabe",
+        "location": "College for Creative Studies Ford Campus",
+        "artist": "Richard Serra",
+        "date": 1947,
+        "race": "White"
+    },
+    {
+        "title": "Grand Couple",
+        "location": "College for Creative Studies Ford Campus",
+        "artist": "Etienne Martin",
+        "date": 1947,
+        "race": "White"
+    },
+    {
+        "title": "Goddess of the Golden Thighs",
+        "location": "College for Creative Studies Ford Campus",
+        "artist": "Reuben Nakian",
+        "date": 1964,
+        "race": "White"
+    },
+    {
+        "title": "Transcending",
+        "location": "Hart Plaza ",
+        "artist": "David Barr",
+        "date": 2003,
+        "race": "White"
+    },
+    {
+        "title": "Trilogy Sculpture",
+        "location": "Orchestra Place Building",
+        "artist": "Louise Nevelson",
+        "date": 1979,
+        "race": "White"
+    },
+    {
+        "title": "Harriet Tubman Statue",
+        "location": "Pocket Park",
+        "artist": "Jane DeDecker",
+        "date": 2006,
+        "race": "White"
+    },
+    {
+        "title": "Gracehoper",
+        "location": "Detroit Insitute of Arts",
+        "artist": "Tony Smith",
+        "date": 1972,
+        "race": "White"
+    },
+    {
+        "title": "Grand Army of the Republic Memorial",
+        "location": "Belle Isle",
+        "artist": "n/a",
+        "date": "n/a",
+        "race": "n/a"
+    },
+    {
+        "title": "Statuary and Memorial Commemorating Detroit's Role in \nthe Underground Railroad",
+        "location": "Detroit Riverwalk",
+        "artist": "Ed Dwight",
+        "date": 2001,
+        "race": "Black"
+    },
+    {
+        "title": "Statue of Ernie Harwell",
+        "location": "Comerica Park",
+        "artist": " Lou Cella",
+        "date": 2001,
+        "race": "White"
+    },
+    {
+        "title": "Bust of Dr. Martin Luther King, Jr",
+        "location": "12th Street",
+        "artist": "Oscar Graves",
+        "date": 1981,
+        "race": "Black"
+    },
+    {
+        "title": "Nydia, the blind girl of pompeii",
+        "location": "Detroit Insitute of Arts",
+        "artist": "Randolph Rogers",
+        "date": 1850
+    },
+    {
+        "title": "Thomas Edison Memorial Fountain",
+        "location": "Grand Circus Park",
+        "artist": "n/a",
+        "date": 1929,
+        "race": "n/a"
+    },
+    {
+        "title": "Detroit Deliquescence",
+        "location": "College for Creative Studies Taubman Campus",
+        "artist": "John Chamberlain",
+        "date": 1979
+    },
+    {
+        "title": "Untitled",
+        "location": "The Belt",
+        "artist": "Hush",
+        "date": 2012,
+        "race": "White"
+    },
+    {
+        "title": "Paint it Black",
+        "location": "The Belt",
+        "artist": "Shepard Fairey",
+        "date": 2015,
+        "race": "White"
+    },
+    {
+        "title": "Facet",
+        "location": "The Belt",
+        "artist": "Tiff Massey",
+        "date": "n/a",
+        "race": "Black"
+    },
+    {
+        "title": "Untitled",
+        "location": "The Belt",
+        "artist": "REVOK (Jason Williams",
+        "date": "n/a",
+        "race": "White"
+    },
+    {
+        "title": "Untitled",
+        "location": "The Belt",
+        "artist": "Patrick Martinez",
+        "date": "n/a",
+        "race": "Latino"
     }
 ]
