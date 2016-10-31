@@ -12,6 +12,7 @@
         "location": "Coleman A. Young Municipal Center",
         "material": "bronze",
         "artist": "Marshall Fredericks",
+        "date": 1958,
         "race": "White"
     },
     {
@@ -339,42 +340,48 @@
         "title": "Atom Gazelle",
         "material": "Stainless steel",
         "artist": "Richard Bennett",
-        "date": 1991
+        "date": 1991,
+        "race": "n/a"
     },
     {
         "title": "Ludington Plaza Statues",
         "location": "Wayne State University",
         "material": "Sandstone",
         "artist": "Julius Theodore Melchers",
-        "date": "Early 1870s"
+        "date": "Early 1870s",
+        "race": "White"
     },
     {
         "title": "James J. Brady Memorial",
         "location": "Belle Isle",
         "material": "Bronze and Granite",
         "artist": "Samuel Cashwan",
-        "date": 1928
+        "date": 1928,
+        "race": "White"
     },
     {
         "title": "Normanno Wedge I",
         "location": "College for Creative Studies Ford Campus",
         "material": "Cor-tan steel",
         "artist": "Beverly Popper",
-        "date": 1983
+        "date": 1983,
+        "race": "White"
     },
     {
         "title": "Statue of Robert Burns",
         "location": "Cass Park",
         "material": "Bronze",
         "artist": "N/A",
-        "date": 1891
+        "date": 1891,
+        "race": "n/a"
     },
     {
         "title": "Michigan Soldiers and Sailors Monument",
         "location": "Campus Martius",
         "material": "Bronze and Sandstone",
         "artist": "Randolph Rogers",
-        "date": 1872
+        "date": 1872,
+        "race": "White"
     },
     {
         "title": "Shinola Detroit Clocks",
@@ -397,6 +404,7 @@
         "location": "Detroit RiverWalk",
         "material": "Mix Media",
         "artist": "Tyree Guyton",
+        "date": 2013,
         "race": "Black"
     },
     {
@@ -404,6 +412,7 @@
         "location": "Detroit RiverWalk",
         "material": "Mix Media",
         "artist": "Tyree Guyton",
+        "date": 2013,
         "race": "Black"
     },
     {
@@ -411,6 +420,7 @@
         "location": "Detroit RiverWalk",
         "material": "steel",
         "artist": "Robert Sistok",
+        "date": 2014,
         "race": "White"
     },
     {
@@ -418,6 +428,7 @@
         "location": "Detroit RiverWalk",
         "material": "steel",
         "artist": "Sasson Soffer",
+        "date": "n/a",
         "race": "Middle Eastern"
     },
     {
@@ -513,6 +524,7 @@
         "title": "Statuary and Memorial Commemorating Detroit's Role in \nthe Underground Railroad",
         "location": "Hart Plaza ",
         "artist": "Ed Dwight",
+        "date": 2001,
         "race": "Black"
     },
     {
@@ -532,6 +544,7 @@
         "title": "Guyton's Heidelberg Project",
         "location": "Heidelberg Street",
         "artist": "Tyree Guyton",
+        "date": 1986,
         "race": "Black"
     },
     {
@@ -811,12 +824,14 @@
         "title": "Starting Point of the July, 1967 Racial Riot",
         "location": "9125 Twelfth Street at the corner of Twelfth and Clairmont",
         "artist": "Jack Ward",
+        "date": "n/a",
         "race": "n/a"
     },
     {
         "title": "Horace H. Rackham Memorial Fountain",
         "location": "Detroit Zoo",
         "artist": "Corrado Joseph Parducci",
+        "date": 1939,
         "race": "White"
     },
     {
@@ -1018,7 +1033,8 @@
         "title": "Nydia, the blind girl of pompeii",
         "location": "Detroit Insitute of Arts",
         "artist": "Randolph Rogers",
-        "date": 1850
+        "date": 1850,
+        "race": "White"
     },
     {
         "title": "Thomas Edison Memorial Fountain",
@@ -1031,7 +1047,8 @@
         "title": "Detroit Deliquescence",
         "location": "College for Creative Studies Taubman Campus",
         "artist": "John Chamberlain",
-        "date": 1979
+        "date": 1979,
+        "race": "White"
     },
     {
         "title": "Untitled",
