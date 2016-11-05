@@ -5,7 +5,8 @@
         "material": "bronze",
         "artist": "Alexis Rudier, Auguste Rodin",
         "date": 1903,
-        "race": "White"
+        "race": "White",
+        "stories": "The Detroit Institute of Arts has a collection of over 60,000 works of art across a wide range of media. One of the most visible is their cast of sculptor August Rodin’s iconic sculpture, The Thinker. More than twenty monumental size bronze casts of the sculpture are in museums around the world. Rodin made the first small plaster version around 1880, but the first large-scale bronze cast was not completed until 1902."
     },
     {
         "title": "Spirit of Detroit",
@@ -13,22 +14,26 @@
         "material": "bronze",
         "artist": "Marshall Fredericks",
         "date": 1958,
-        "race": "White"
+        "race": "White",
+        "stories": "In 2013, art dealer and art historian Eric Ian Hornak Spoutz was quoted in the Detroit News stating that the value of the statue is in excess of $1,000,000."
     },
     {
         "title": "School of Iron",
         "location": "African Bead museum",
         "material": "rock, iron, and miscellaneous",
         "artist": "Olayami Dabls",
-        "date": "N/A",
-        "race": "Black"
+        "date": "n/a",
+        "race": "Black",
+        "stories": "The sculpture garden at MBAD African Bead Museum houses 18 outdoor installations as well as the African Bead Gallery, N'kisi House and the African Language Wall."
     },
     {
         "title": "Monument to Joe Louis \"The Fist\"",
+        "location": "Hart Plaza",
         "material": "bronze",
         "artist": "Robert Graham",
         "date": 1986,
-        "race": "White"
+        "race": "White",
+        "stories": "The sculpture was vandalized by two Caucasian-American males in 2004, who covered it in white paint and left a sign which read, \"Courtesy of Fighting Whities\"."
     },
     {
         "title": "Antoine de la Mothe Cadillac Statue",
@@ -36,7 +41,8 @@
         "material": "bronze",
         "artist": "William Kieffer and Ann Feeley",
         "date": 2001,
-        "race": "White"
+        "race": "White",
+        "stories": "The founder of Detroit, Antoine Laumet in Saint Nicolas de la Grave, was from the Tarn et Garonne department in the Midi Pyrenées region of France. "
     },
     {
         "title": "Dodge Memorial Fountain",
@@ -44,239 +50,269 @@
         "material": "stainless steel",
         "artist": "Isamu Noguchi",
         "date": 1981,
-        "race": "Asian"
+        "race": "Asian",
+        "stories": "Vandals did more than $1 million in damage to Hart Plaza in January '16, leaving the Horace E. Dodge and Son Memorial Fountain inoperable and fixing the fountain will cost $300,000 to $400,000."
     },
     {
-        "title": "One",
+        "title": "Free Form One",
         "location": "City Sculpture Park ",
         "material": "Welding steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "City Sculpture is a 501c3 non­profit entity."
     },
     {
-        "title": "Two",
+        "title": "Free Form Two",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "It is designed to provide an educational experience for mainly high school and college students. "
     },
     {
-        "title": "Three",
+        "title": "Free FormThree",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "The park is dedicated to exposing the public to experimental sculpture work in Detroit."
     },
     {
-        "title": "Four",
+        "title": "Free Form Four",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "Artist statement: \"I have lived and worked my entire life as a sculptor in the city of my birth — Detroit, Michigan. The art studio and house that I built has served as my welding shop, and printmaking and painting studio since the 1980s.\" "
     },
     {
-        "title": "Five",
+        "title": "Free Form Five",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "Artist statement: \"I feel proud to be a part of this community where I live and work, and I am likewise honored to be a part of a city whose challenges have helped create more provoking art, and a tighter and more coherent art community.\""
     },
     {
-        "title": "Six",
+        "title": "Free Form Six",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "Artist statement: \"Having made many indoor and outdoor welded sculptures throughout my career — on permanent display in the City of Detroit and surrounding suburbs, as well as several works on display in New York City and elsewhere in North America — it is now my goal to create a permanent exhibit space for my large-scale work.\""
     },
     {
-        "title": "Seven",
+        "title": "Free Form Seven",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "Artist statement: \"I have nearly sixty pieces of sculpture made since 1980, including several new pieces currently in the works —  welded steel, bronze and stainless steel that I plan to feature in a neighborhood outdoor sculpture park in my mid-town Detroit neighborhood, for the benefit of people who live there, the Wayne State students and faculty who traverse the area, and for the nearby public Detroit Public Jefferson middle school.\""
     },
     {
-        "title": "Eight",
+        "title": "Free Form Eight",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "Artist statement: \"My vision is for at least a 200ft by 200ft space for the park, with a dozensculptures to be initially installed, and more over time. Ultimately I see the park becoming a site for classes and workshops in sculptural art with visiting artists invited to display and give lectures and demonstrations in the park.\""
     },
     {
-        "title": "Nine",
+        "title": "Free Form Nine",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "Artist statement: “The art scene in Detroit has just exploded.”"
     },
     {
-        "title": "Ten",
+        "title": "Free Form Ten",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "City Sculpture is a 501c3 non­profit entity."
     },
     {
-        "title": "Eleven",
+        "title": "Free Form Eleven",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "It is designed to provide an educational experience for mainly high school and college students. "
     },
     {
-        "title": "Twelve",
+        "title": "Free Form Twelve",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "The park is dedicated to exposing the public to experimental sculpture work in Detroit."
     },
     {
-        "title": "Thirteen",
+        "title": "Free Form Thirteen",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "Artist statement: \"I have lived and worked my entire life as a sculptor in the city of my birth — Detroit, Michigan. The art studio and house that I built has served as my welding shop, and printmaking and painting studio since the 1980s.\" "
     },
     {
-        "title": "Fourteen",
+        "title": "Free Form Fourteen",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "Artist statement: \"I feel proud to be a part of this community where I live and work, and I am likewise honored to be a part of a city whose challenges have helped create more provoking art, and a tighter and more coherent art community.\""
     },
     {
-        "title": "Fifteen",
+        "title": "Free Form Fifteen",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "Artist statement: \"Having made many indoor and outdoor welded sculptures throughout my career — on permanent display in the City of Detroit and surrounding suburbs, as well as several works on display in New York City and elsewhere in North America — it is now my goal to create a permanent exhibit space for my large-scale work.\""
     },
     {
-        "title": "Sixteen",
+        "title": "Free Form Sixteen",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "Artist statement: \"I have nearly sixty pieces of sculpture made since 1980, including several new pieces currently in the works —  welded steel, bronze and stainless steel that I plan to feature in a neighborhood outdoor sculpture park in my mid-town Detroit neighborhood, for the benefit of people who live there, the Wayne State students and faculty who traverse the area, and for the nearby public Detroit Public Jefferson middle school.\""
     },
     {
-        "title": "Seventeen",
+        "title": "Free Form Seventeen",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "Artist statement: \"My vision is for at least a 200ft by 200ft space for the park, with a dozensculptures to be initially installed, and more over time. Ultimately I see the park becoming a site for classes and workshops in sculptural art with visiting artists invited to display and give lectures and demonstrations in the park.\""
     },
     {
-        "title": "Eighteen",
+        "title": "Free Form Eighteen",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "Artist statement: “The art scene in Detroit has just exploded.”"
     },
     {
-        "title": "Nineteen",
+        "title": "Free Form Nineteen",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "City Sculpture is a 501c3 non­profit entity."
     },
     {
-        "title": "Twenty",
+        "title": "Free Form Twenty",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "It is designed to provide an educational experience for mainly high school and college students. "
     },
     {
-        "title": "Twenty One",
+        "title": "Free Form Twenty One",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "The park is dedicated to exposing the public to experimental sculpture work in Detroit."
     },
     {
-        "title": "Twenty Two",
+        "title": "Free Form Twenty Two",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "Artist statement: \"I have lived and worked my entire life as a sculptor in the city of my birth — Detroit, Michigan. The art studio and house that I built has served as my welding shop, and printmaking and painting studio since the 1980s.\" "
     },
     {
-        "title": "Twenty Three",
+        "title": "Free Form Twenty Three",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "Artist statement: \"I feel proud to be a part of this community where I live and work, and I am likewise honored to be a part of a city whose challenges have helped create more provoking art, and a tighter and more coherent art community.\""
     },
     {
-        "title": "Twenty Four",
+        "title": "Free Form Twenty Four",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "Artist statement: \"Having made many indoor and outdoor welded sculptures throughout my career — on permanent display in the City of Detroit and surrounding suburbs, as well as several works on display in New York City and elsewhere in North America — it is now my goal to create a permanent exhibit space for my large-scale work.\""
     },
     {
-        "title": "Twenty Five",
+        "title": "Free Form Twenty Five",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "Artist statement: \"I have nearly sixty pieces of sculpture made since 1980, including several new pieces currently in the works —  welded steel, bronze and stainless steel that I plan to feature in a neighborhood outdoor sculpture park in my mid-town Detroit neighborhood, for the benefit of people who live there, the Wayne State students and faculty who traverse the area, and for the nearby public Detroit Public Jefferson middle school.\""
     },
     {
-        "title": "Twenty Six",
+        "title": "Free Form Twenty Six",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "Artist statement: \"My vision is for at least a 200ft by 200ft space for the park, with a dozensculptures to be initially installed, and more over time. Ultimately I see the park becoming a site for classes and workshops in sculptural art with visiting artists invited to display and give lectures and demonstrations in the park.\""
     },
     {
-        "title": "Twenty Seven",
+        "title": "Free Form Twenty Seven",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "Artist statement: “The art scene in Detroit has just exploded.”"
     },
     {
-        "title": "Twenty Eight",
+        "title": "Free Form Twenty Eight",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "Artist statement: “This is my field, and my crops are growing.” "
     },
     {
-        "title": "Twenty Nine",
+        "title": "Free Form Twenty Nine",
         "location": "City Sculpture Park ",
         "material": "welded steel",
         "artist": "Robert Sestok",
         "date": 1980,
-        "race": "White"
+        "race": "White",
+        "stories": "His 27 “crops” aren’t stalks of corn but twisting towers of recycled steel, some as high as 12 feet, that populate this once vacant strip of Midtown."
     },
     {
         "title": "Ride it Sculpture Park",
@@ -284,7 +320,8 @@
         "material": "Concrete ",
         "artist": "Evergreen Skateparks",
         "date": 2012,
-        "race": "n/a"
+        "race": "n/a",
+        "stories": "A public park along the Davison Expressway, combining elements of skateboarding with public art and greenspace into a unique neighborhood landmark. "
     },
     {
         "title": "Gordie Howe Statue",
@@ -292,64 +329,80 @@
         "material": "bronze",
         "artist": "Omri Amrany",
         "date": 2007,
-        "race": "white"
+        "race": "White",
+        "stories": "Home of the 11-time Stanley Cup Champion Detroit Red Wings, Joe Louis Arena proudly stands along the banks of the Detroit River. "
     },
     {
         "title": "Ty Cobb",
         "location": "Comerica Park",
         "material": "stainless steel",
         "artist": "Omri Amrany",
-        "race": "white"
+        "date": 2007,
+        "race": "White",
+        "stories": "With Cobb leading the Tigers to three league championships, attendance flourished and baseball became important in the city in the 1920s."
     },
     {
         "title": "Charlie Gehringer",
         "location": "Comerica Park",
         "material": "stainless steel",
         "artist": "Omri Amrany",
-        "race": "white"
+        "date": 2000,
+        "race": "White",
+        "stories": "Gehringer had a great career, hitting above .300 thirteen seasons and finishing with a career batting average of .320 in the 1920s"
     },
     {
         "title": "Hank Greenberg",
         "location": "Comerica Park",
         "material": "stainless steel",
         "artist": "Omri Amrany",
-        "race": "white"
+        "date": 2000,
+        "race": "White",
+        "stories": "Hank Greenberg statue at Comerica Park stands approx. 13 ft tall and is cast in stainless steel. It sits on a granite base and stands with 5 other Detroit Tiger Hall of Fame statues."
     },
     {
         "title": "Willie Horton",
         "location": "Comerica Park",
         "material": "stainless steel",
         "artist": "Omri Amrany",
-        "race": "white"
+        "date": 2000,
+        "race": "White",
+        "stories": "Willie Horton, who played with the Detroit Tigers, with a statue made in his image, during a ceremony where his No. 23 was retired on July 15, 2000, in Detroit."
     },
     {
         "title": "Al Kaline",
         "location": "Comerica Park",
         "material": "stainless steel",
         "artist": "Omri Amrany",
-        "race": "white"
+        "date": 2000,
+        "race": "White",
+        "stories": "Al Kaline joined the Tigers when they were in Philadelphia on June 25, 1953 and played in the game that day as an 18 year old."
     },
     {
         "title": "Hal Newhouser",
         "location": "Comerica Park",
         "material": "stainless steel",
         "artist": "Omri Amrany",
-        "race": "white"
+        "date": 2000,
+        "race": "White",
+        "stories": "Newhouser was known for his fiery temper. Apparently, he was estranged from the Detroit Tigers from his release in 1953 until 1997 when the team ceremoniously retired his number."
     },
     {
         "title": "Atom Gazelle",
+        "location": "Belle Isle",
         "material": "Stainless steel",
         "artist": "Richard Bennett",
         "date": 1991,
-        "race": "n/a"
+        "race": "Black",
+        "stories": "Richard Bennett is a self-taught, Detroit-born sculptor.  When this piece of art was installed, it was meant to be the first of a herd of five gazelles. "
     },
     {
         "title": "Ludington Plaza Statues",
         "location": "Wayne State University",
         "material": "Sandstone",
         "artist": "Julius Theodore Melchers",
-        "date": "Early 1870s",
-        "race": "White"
+        "date": "1870s",
+        "race": "White",
+        "stories": "The nine bronzed sculptures throughout the five-acre park each tells a story that relates to Ludington's rich history."
     },
     {
         "title": "James J. Brady Memorial",
@@ -357,23 +410,26 @@
         "material": "Bronze and Granite",
         "artist": "Samuel Cashwan",
         "date": 1928,
-        "race": "White"
+        "race": "White",
+        "stories": "This statue commemorates the significant work of a James J. Brady, who sought to improve the welfare of Detroit’s young children early in the last century."
     },
     {
         "title": "Normanno Wedge I",
         "location": "College for Creative Studies Ford Campus",
         "material": "Cor-tan steel",
-        "artist": "Beverly Popper",
+        "artist": "Beverly Pepper",
         "date": 1983,
-        "race": "White"
+        "race": "White",
+        "stories": "This 1983 sculpture by Beverly Pepper is one of several modern works installed at this outdoor sculpture garden on the campus of the College for Creative Studies."
     },
     {
         "title": "Statue of Robert Burns",
         "location": "Cass Park",
         "material": "Bronze",
-        "artist": "N/A",
+        "artist": "n/a",
         "date": 1891,
-        "race": "n/a"
+        "race": "n/a",
+        "stories": "The statue of Robert Burns was built with donations from English immigrants. "
     },
     {
         "title": "Michigan Soldiers and Sailors Monument",
@@ -381,23 +437,26 @@
         "material": "Bronze and Sandstone",
         "artist": "Randolph Rogers",
         "date": 1872,
-        "race": "White"
+        "race": "White",
+        "stories": "This sculpture stands in a prominent location on the southeast tip of Campus Martius Park, where five principal thoroughfares—Michigan Avenue, Monroe Street, Cadillac Square, Fort Street, and Woodward Avenue—convene on the traffic circle."
     },
     {
         "title": "Shinola Detroit Clocks",
         "location": "Taubman Campus",
         "material": "Staneless steel",
         "artist": "Shinola",
-        "date": "n/a",
-        "race": "n/a"
+        "date": 2014,
+        "race": "n/a",
+        "stories": "Inspired by the city clocks that were popular fixtures on sidewalks of American cities in the late 1800s, Shinola installed them at Cobo Center, Eastern Market, at the intersection of Cass and Canfield, and at the corner of Milwaukee and Cass in front of the College for Creative Studies A. Alfred Taubman Center for Design Education."
     },
     {
-        "title": "Mayor Hazen Pingree Statue",
+        "title": "Mayor Hazen Pingree Monument",
         "location": "Woodward Avenue and\nWest Adams Street",
         "material": "Bronze",
         "artist": "Rudolph Schwarz",
         "date": 1904,
-        "race": "White"
+        "race": "White",
+        "stories": "The Hazen S. Pingree Monument honors a man who served as Detroit mayor from 1890 to 1897, leaving office only after being elected governor of Michigan. Old Ping, as he was known, was named one of the 10 best mayors in U.S. history."
     },
     {
         "title": "Boogaloo",
@@ -405,7 +464,8 @@
         "material": "Mix Media",
         "artist": "Tyree Guyton",
         "date": 2013,
-        "race": "Black"
+        "race": "Black",
+        "stories": "Artist statement: \"I strive to be a part of the solution. I see and understand how order is needed in the world and in our individual lives. My experiences have granted me knowledge of how to create art and how to see beauty in everything that exists.\""
     },
     {
         "title": "Side Talking Kay",
@@ -413,71 +473,68 @@
         "material": "Mix Media",
         "artist": "Tyree Guyton",
         "date": 2013,
-        "race": "Black"
-    },
-    {
-        "title": "Free Form 4",
-        "location": "Detroit RiverWalk",
-        "material": "steel",
-        "artist": "Robert Sistok",
-        "date": 2014,
-        "race": "White"
+        "race": "Black",
+        "stories": "Artist statement, \"Even in the smallest molecule or things in this life that we can’t see, we are all bound by this same energy, we are all bound by gravity and we breathe the same air. I can see the evolution of life in everything, in every minute second. How beautiful it is to witness this process in action."
     },
     {
         "title": "Midmiem",
         "location": "Detroit RiverWalk",
         "material": "steel",
         "artist": "Sasson Soffer",
-        "date": "n/a",
-        "race": "Middle Eastern"
+        "date": 1970,
+        "race": "Middle Eastern",
+        "stories": "Beginning in 1968, Soffer’s sculpture has been seen at Lincoln Center, Battery Park, the Indianapolis Museum of Art, Queens College, Bard College, New York University, Harvard University, Hampshire College, and the Sculpture Park in East Hampton, New York."
     },
     {
         "title": "Statues of General Anthony Wayne, Antoine De La Mothe Cadillac,\nChief Pontiac and Robert Navarre",
-        "location": "Bronze",
-        "material": "Book Cadillac Hote",
+        "location": "Book Cadillac Hote",
+        "material": "bronze",
         "artist": "n/a",
         "date": 1924,
-        "race": "n/a"
+        "race": "n/a",
+        "stories": "On the Michigan Avenue façade above the major entrance of the Book Cadillac Hotel at the intersection of Michigan Avenue and Washington Boulevard in downtown Detroit. "
     },
     {
         "title": "Mural on the west side of the Cass Motors Building",
-        "location": "Paint",
-        "material": "Midtown",
+        "location": "Midtown",
+        "material": "paint",
         "artist": "Michael Burdick",
         "date": 2015,
-        "race": "white"
+        "race": "White",
+        "stories": "The Carhartt business was founded in Detroit in 1889 to manufacture extremely durable apparel for railroad workers."
     },
     {
-        "title": "Gazelle",
-        "artist": "Richard Bennett",
-        "date": 1991,
-        "race": "Black"
-    },
-    {
-        "title": "Tower of Freedom/Underground Railroad Monument",
+        "title": "Gateway To Freedom",
+        "location": "Hart Plaza",
         "artist": "Ed Dwight",
         "date": 2001,
-        "race": "Black"
+        "race": "Black",
+        "stories": "The sculpture shows six fugitive slaves ready to board a boat to cross to Canada. The gentleman pointing from Detroit to Windsor is George DeBaptist, a Detroit resident who helped slaves get across the river to freedom."
     },
     {
         "title": "Sunbeam Sculpture",
+        "location": "Hannan House",
         "artist": "Robert Sestok",
         "date": 2011,
-        "race": "White"
+        "race": "White",
+        "stories": "The work portrays the interaction of water and sun in an urban environment."
     },
     {
         "title": "Spirit Renewal",
+        "location": "Detroit Institute of Arts",
         "artist": "Charles McGee",
         "date": 2011,
-        "race": "Black"
+        "race": "Black",
+        "stories": "Charles McGee was the first winner of the Kresge Eminent Artist Award in 2008.  The program is now administered by the College for Creative Studies and honors Detroit-area artists.  "
     },
     {
         "title": "Spanish-American War Commerative",
         "location": "Belle Isle",
         "material": "Bronze",
-        "artist": " Allen G. Newman",
+        "artist": "Allen G. Newman",
         "date": 1932,
-        "race": "White"
+        "race": "White",
+        "stories": "Allen Newman, who lived from 1875 to 1940, was a reasonably well-known and popular sculptor of the early Twentieth Century.  He specialized in outdoor sculptures commemorating the Spanish-American War."
     },
     {
         "title": "Joe Louis Sculpture",
@@ -485,604 +542,713 @@
         "material": "Bronze",
         "artist": "Ed Hamilton",
         "date": 1987,
-        "race": "Black"
+        "race": "Black",
+        "stories": "Boxing was an extremely popular sport in the Depression decade, and Joe Louis was an exceptionally talented fighter."
     },
     {
-        "title": "Statue of General Alexander Macomb",
-        "location": "Downtown",
+        "title": "General Alexander Macomb Monument",
+        "location": "Downtown Detroit",
         "material": "Bronze",
-        "artist": " Adolph Alexander Weinman",
+        "artist": "Adolph Alexander Weinman",
         "date": 1906,
-        "race": "White"
+        "race": "White",
+        "stories": "Instead of a comfortable life in Detroit, Alexander Macomb joined the U.S. Army in 1799 and would make a name for himself during the War of 1812 as a brigadier general at the Battle of Plattsburgh in New York in September 1814."
     },
     {
-        "title": "Little Water Girl Statue",
+        "title": "Little Water Girl ",
         "location": "Belle Isle",
         "material": "Bronze",
         "artist": "George H. Wade",
-        "date": 1917
+        "date": 1917,
+        "race": "White",
+        "stories": "Around 1917, the WCTU commissioned the sculpting of a statue of a young girl catching rain in a small bucket. This was done to honor Lilian Ames Stevens who was the second president of the WCTU and a leading suffergette."
     },
     {
         "title": "Demetrius Ypsilanti Bust",
+        "location": "Ypsilanti Water Works Standpipe",
         "artist": "Christopher Nastos",
         "date": 1928,
-        "race": "white"
+        "race": "White",
+        "stories": "Demetrius Ypsilanti was a field general in the Greek army during the country's struggle for independence from the Ottoman empire. He successfully defended the Citadel of Argos in 1824."
     },
     {
         "title": "William Livingstone Memorial Lighthouse",
+        "location": "Belle Isle",
         "artist": "Albert Kahn",
-        "race": "white"
+        "date": 1930,
+        "race": "White",
+        "stories": "\"The lighthouse has always seemed to me to be symbolic of two primary ideals, reliability and service, and that this permanent memorial has appropriately taken this shape well signifies the extent to which the life of Mr. Livingstone fulfilled these ideals.\" - H.S. King, Deputy Commissioner of Lighthouses"
     },
     {
         "title": "Wings of Learning",
         "location": "Wayne State University",
         "artist": "Alden Smith",
-        "date": "n/a",
-        "race": "n/a"
-    },
-    {
-        "title": "Statuary and Memorial Commemorating Detroit's Role in \nthe Underground Railroad",
-        "location": "Hart Plaza ",
-        "artist": "Ed Dwight",
-        "date": 2001,
-        "race": "Black"
+        "date": 1962,
+        "race": "White",
+        "stories": "G. Alden Smith (1912-1984) was a sculptor and art director from Highland Park, Michigan."
     },
     {
         "title": "Upfront",
         "location": "College for Creative Studies Ford Campus",
         "artist": "Anthony Caro",
-        "race": "White"
+        "date": 1971,
+        "race": "White",
+        "stories": "Anthony Caro's questioning approach opened up new possibilities, both formally and with regard to subject matter. His innovative work as well as his teaching led to a flowering and a new confidence in sculpture worldwide."
     },
     {
-        "title": "Hand of God Sculpture Honoring Frank Murphy",
+        "title": "The Hand of God ",
         "location": "Downtown Detroit",
         "artist": "Carl Milles",
         "date": 1949,
-        "race": "White"
-    },
-    {
-        "title": "Guyton's Heidelberg Project",
-        "location": "Heidelberg Street",
-        "artist": "Tyree Guyton",
-        "date": 1986,
-        "race": "Black"
+        "race": "White",
+        "stories": "In 1930, Murphy ran as a Democrat and was elected Mayor of Detroit. He served from 1930 to 1933, during the first years of the Great Depression. He presided over an epidemic of urban unemployment, a crisis in which 100,000 were unemployed in the summer of 1931."
     },
     {
         "title": "Father Gomidas Vartabed Statue",
         "location": "Jefferson-Woodward intersection,",
         "artist": "Arto Tchakmakchian",
         "date": 1981,
-        "race": "Middle-Eastern"
+        "race": "Middle Eastern",
+        "stories": "Detroit's large and prosperous Armenian community erected this statue in 1981 to commemorate their dead co-ethnics and remind us of the tragedy of ethnic slaughters."
     },
     {
         "title": "Tribute to General Anthony Wayne",
         "location": "Wayne State University",
         "artist": "Sergio DeGiusti",
         "date": 1969,
-        "race": "White"
+        "race": "White",
+        "stories": "General Wayne was the first successful US commander to win a reputation for soundly defeating Indians. He also helped to develop an effective strategy for controlling and removing Indians, a strategy that was followed in Michigan, Wisconsin and the upper Midwest. "
     },
     {
-        "title": "Untitled (Sculpture on Belle Isle)",
-        "location": "Belle Isle",
-        "artist": "Stanley Dolega",
-        "date": 1972,
-        "race": "White"
-    },
-    {
-        "title": "Untitled ",
+        "title": "Sculpture Honoring Professor Andrzej W. Olbrot",
         "location": "Wayne State University",
         "artist": "Edward Sykes",
         "date": 2001,
-        "race": "White"
+        "race": "White",
+        "stories": "A Wayne State graduate student in the Department of Electrical and Computer Engineering, Wlodzimierz Dedecjus, walked into that classroom, pulled out a rifle and shot Professor Olbrot to death."
     },
     {
         "title": "United Foundation Torch",
         "location": "Downtown Detroit",
         "artist": "Dario Bonucchi",
         "date": 1969,
-        "race": "n/a"
-    },
-    {
-        "title": "White",
-        "location": "Belle Isle",
-        "artist": "Herman Martzen",
-        "date": 1907,
-        "race": "White"
-    },
-    {
-        "title": "Victory Eagle",
-        "location": "UAW-Ford National Programs ",
-        "artist": "Marshall Fredericks",
-        "date": 1950,
-        "race": "White"
-    },
-    {
-        "title": "Father Clement Kern Statue",
-        "location": "Corktown",
-        "artist": "Edward Chasney",
-        "date": 1986,
-        "race": "White"
-    },
-    {
-        "title": "Jeune Fille et sa Suite",
-        "location": "Detroit Insitute of Arts",
-        "artist": "Alexander Calder",
-        "date": 1970,
-        "race": "White"
-    },
-    {
-        "title": "Horse Sculpture",
-        "location": "College for Creative Studies Ford Campus",
-        "artist": "raymond duchamp-villon",
-        "date": 1930,
-        "race": "White"
-    },
-    {
-        "title": "Hip and Spine (Stone Chair Setting)",
-        "location": "College for Creative Studies Ford Campus",
-        "artist": "Richard Nonas",
-        "date": 1997,
-        "race": "White"
-    },
-    {
-        "title": "Helios Trail",
-        "location": "Wayne State University",
-        "artist": "Bruce White",
-        "date": 1989,
-        "race": "White"
-    },
-    {
-        "title": "Statue of Major General Alpheus Starkey Williams",
-        "location": "Belle Isle",
-        "artist": "Henry Merwin Shrady",
-        "date": 1921,
-        "race": "White"
-    },
-    {
-        "title": "Obelisk Commemorating Judge Augustus Woodward’s \nPlan for the City of Detroit",
-        "location": "Grand Circus Park",
-        "artist": "n/a",
-        "date": 2011,
-        "race": "n/a"
-    },
-    {
-        "title": "Statue of Abraham Lincoln",
-        "location": "Library Park",
-        "artist": "Alfonso Pelzer",
-        "date": 1895,
-        "race": "White"
-    },
-    {
-        "title": "Le Fleuve et La Garonne",
-        "location": "Detroit Insitute of Arts",
-        "artist": "Antoine Coysevox",
-        "date": 1688,
-        "race": "White"
-    },
-    {
-        "title": "Leaping Gazelle",
-        "location": "Detroit Zoo",
-        "artist": "Marshall Fredericks",
-        "date": 1939,
-        "race": "White"
-    },
-    {
-        "title": "Statue of General Thaddeus Kosciuszko",
-        "location": "Michigan Avenue",
-        "artist": "Leonard Marconi",
-        "date": 1889,
-        "race": "White"
-    },
-    {
-        "title": "Bust of Mikolaj Kopernik",
-        "location": "Detroit Public Library",
-        "artist": "Ferenc Varga",
-        "date": 1973,
-        "race": "White"
-    },
-    {
-        "title": "William Cotter Maybury Monument",
-        "location": "Grand Circus Park",
-        "artist": "Adolph Alexander Weinman",
-        "date": 1912,
-        "race": "White"
-    },
-    {
-        "title": "Ludington Plaza Statues",
-        "location": "Wayne State University",
-        "artist": "Julius Theodore Melchers",
-        "date": "1870s",
-        "race": "White"
-    },
-    {
-        "title": "Russell Alexander Alger Memorial Fountain",
-        "location": "Grand Circus Park",
-        "artist": "Daniel Chester French",
-        "date": 1921,
-        "race": "White"
-    },
-    {
-        "title": "Stevens Thompson Mason Statue",
-        "location": "Downtown Detroit",
-        "artist": "Albert Weinger",
-        "date": 1908,
-        "race": "n/a"
-    },
-    {
-        "title": "Merrill Fountain",
-        "location": "Historic District",
-        "artist": " John M. Carrere",
-        "date": 1901,
-        "race": "White"
-    },
-    {
-        "title": "Bagley Memorial Fountain",
-        "location": "Campus Martius",
-        "artist": "Henry Hobson Richardson",
-        "date": 1887,
-        "race": "White"
-    },
-    {
-        "title": "Levi L. Barbour Memorial Fountain",
-        "location": "Belle Isle",
-        "artist": "Marshall Fredericks",
-        "date": 1936,
-        "race": "White"
-    },
-    {
-        "title": " Monroe Monument Marker/Woodward Monument Marker",
-        "location": "Campus Martius",
-        "artist": "Herb Babcock",
-        "date": 2004,
-        "race": "white"
-    },
-    {
-        "title": "Nordkyn",
-        "location": "Wayne State University",
-        "artist": "Robert McKurray",
-        "date": 1974,
-        "race": "n/a"
-    },
-    {
-        "title": "Normanno Wedge I",
-        "location": "College for Creative Studies Ford Campus",
-        "artist": "Beverly Popper",
-        "date": 1983,
-        "race": "White"
-    },
-    {
-        "title": "Charles Brook’s Memorial Peace Fountain",
-        "location": "Detroit River",
-        "artist": "n/a",
-        "date": 1977,
-        "race": "n/a"
-    },
-    {
-        "title": "Nancy Brown Peace Carillon",
-        "location": "Belle Isle",
-        "artist": " Clarence E. Day",
-        "date": 1940,
-        "race": "n/a"
-    },
-    {
-        "title": "Commodore Oliver Hazard Perry’s Canons",
-        "location": "Belle Isle",
-        "artist": "n/a",
-        "date": 1970,
-        "race": "n/a"
-    },
-    {
-        "title": "Nymph and Eros",
-        "location": "Detroit Insitute of Arts",
-        "artist": "n/a",
-        "date": "n/a",
-        "race": "n/a"
-    },
-    {
-        "title": "Pewabic Pottery Company",
-        "location": "East Jefferson",
-        "artist": "William B. Stratton",
-        "date": 1907,
-        "race": "White"
-    },
-    {
-        "title": "Phylon",
-        "location": "Hart Plaza ",
-        "artist": "Isamu Noguchi",
-        "date": 1973,
-        "race": "Asian"
-    },
-    {
-        "title": "Statue of Pope John Paul II",
-        "location": "Pope Park Hammtramck",
-        "artist": "Ferenc Varga",
-        "date": 1982,
-        "race": "White"
-    },
-    {
-        "title": "Brigadier General Casmir Pulaski Statue",
-        "location": "Downtown Detroit",
-        "artist": "Ferenc Varga",
-        "date": 1970,
-        "race": "White"
-    },
-    {
-        "title": "Father Solanus Casey Statue",
-        "location": "St Bonaventure Monastary",
-        "artist": "n/a",
-        "date": "n/a",
-        "race": "n/a"
-    },
-    {
-        "title": "Bust of Lewis Cass",
-        "location": "Detroit Public Library",
-        "artist": " Thomas D. Jones",
-        "date": 1845,
-        "race": "n/a"
-    },
-    {
-        "title": "Starting Point of the July, 1967 Racial Riot",
-        "location": "9125 Twelfth Street at the corner of Twelfth and Clairmont",
-        "artist": "Jack Ward",
-        "date": "n/a",
-        "race": "n/a"
-    },
-    {
-        "title": "Horace H. Rackham Memorial Fountain",
-        "location": "Detroit Zoo",
-        "artist": "Corrado Joseph Parducci",
-        "date": 1939,
-        "race": "White"
-    },
-    {
-        "title": "Father Gabriel Richard Statue",
-        "location": "Belle Isle",
-        "artist": "Leonard D. Jungwirth",
-        "date": 1940,
-        "race": "White"
-    },
-    {
-        "title": "The River of Knowledge Mosaic",
-        "location": "Detroit Public Library",
-        "artist": "Millard Sheets",
-        "date": 1963,
-        "race": "White"
-    },
-    {
-        "title": "Bust of Christopher Columbus",
-        "location": "Downtown Detroit",
-        "artist": "Augusto Rivalta",
-        "date": 1910,
-        "race": "White"
-    },
-    {
-        "title": "Bust of Christoforo Columbo",
-        "location": "Oakman Boulevard ",
-        "artist": "Edward Chesney",
-        "date": 1975,
-        "race": "White"
+        "race": "n/a",
+        "stories": "This sculpture continues to bring attention to the United Way campaign"
     },
     {
         "title": "Johann Friedrich von Schiller Sculpture",
         "location": "Belle Isle",
         "artist": "Herman Martzen",
         "date": 1907,
-        "race": "White"
+        "race": "White",
+        "stories": "This statue of the German poet and playwright was commissioned by Detroit's German-American community in 1908 at a cost of $12,000."
+    },
+    {
+        "title": "Victory Eagle",
+        "location": "Detroit Athletic Club",
+        "artist": "Marshall Fredericks",
+        "date": 1950,
+        "race": "White",
+        "stories": "Although abstracted, the Victory Eagle appears to be landing on the surface of the pedestal. Moreover, it is situated above the eye-level of the viewer and looks down with glaring eyes. Its upraised wings, sharp beak, and talons add to its fierceness. "
+    },
+    {
+        "title": "Father Clement Kern Statue",
+        "location": "Corktown",
+        "artist": "Edward Chasney",
+        "date": 1986,
+        "race": "White",
+        "stories": "Father Clement Kern spent virtually his entire career at the Holy Trinity Church, specializing in self-help programs such as a credit union and counseling for alcoholics."
+    },
+    {
+        "title": "Jeune Fille et sa Suite",
+        "location": "Detroit Insitute of Arts",
+        "artist": "Alexander Calder",
+        "date": 1970,
+        "race": "White",
+        "stories": "Many artists made contour line drawings on paper, but Calder was the first to use wire to create three-dimensional line \"drawings\" of people, animals, and objects. These \"linear sculptures\" introduced line into sculpture as an element unto itself."
+    },
+    {
+        "title": "Horse Sculpture",
+        "location": "College for Creative Studies Ford Campus",
+        "artist": "Raymond Duchamp-Villon",
+        "date": 1930,
+        "race": "White",
+        "stories": "Duchamp-Villon transformed the natural forms of a horse into the elements of a machine, a not uncommon theme in the work of avant-garde artists of the late nineteenth and early twentieth centuries."
+    },
+    {
+        "title": "Hip and Spine (Stone Chair Setting)",
+        "location": "College for Creative Studies Ford Campus",
+        "artist": "Richard Nonas",
+        "date": 1997,
+        "race": "White",
+        "stories": "Many of Richard Nonas works – made of such materials as timbers, linear beams, granite curbstones, and steel planes – rest directly on the ground and function less as formal aesthetic objects, and more as spatial markers."
+    },
+    {
+        "title": "Helios Trail",
+        "location": "Wayne State University",
+        "artist": "Bruce White",
+        "date": 1989,
+        "race": "White",
+        "stories": "The sculpture was intended to represent the bright future of the College of Engineering at Wayne State."
+    },
+    {
+        "title": "Statue of Major General Alpheus Starkey Williams",
+        "location": "Belle Isle",
+        "artist": "Henry Merwin Shrady",
+        "date": 1921,
+        "race": "White",
+        "stories": "Williams, a Detroiter, was a congressman, a judge, a lawyer, a postmaster, a newspaper publisher and a failed gubernatorial candidate, but he made a name for himself in the military, serving in the Mexican-American War and for the Union in the Civil War."
+    },
+    {
+        "title": "Obelisk",
+        "location": "Grand Circus Park",
+        "artist": "n/a",
+        "date": 2011,
+        "race": "n/a",
+        "stories": "The Obelisk commemorates Judge Augustus Woodward’s plan for the redesigned city of Detroit after the disastrous fire of 1805. "
+    },
+    {
+        "title": "Statue of Abraham Lincoln",
+        "location": "Library Park",
+        "artist": "Alfonso Pelzer",
+        "date": 1895,
+        "race": "White",
+        "stories": "When the Ford Motor Company ceased building Lincolns in that massive factory, Leland’s heirs gave the statue of President Lincoln to the city of Detroit."
+    },
+    {
+        "title": "Le Fleuve et La Garonne",
+        "location": "Detroit Insitute of Arts",
+        "artist": "Antoine Coysevox",
+        "date": 1688,
+        "race": "White",
+        "stories": "French sculptor known for his decorative work at the palace of Versailles and for his portrait busts, which introduced a trend toward the sharpened depiction of individual character."
+    },
+    {
+        "title": "Leaping Gazelle",
+        "location": "Belle Isle",
+        "artist": "Marshall Fredericks",
+        "date": 1939,
+        "race": "White",
+        "stories": "Since the gazelle is not native to Michigan, Fredericks made four animals that are, and placed them around the gazelle on Belle Isle. These animals are the otter, grouse, hawk and rabbit. "
+    },
+    {
+        "title": "Statue of General Thaddeus Kosciuszko",
+        "location": "Michigan Avenue",
+        "artist": "Leonard Marconi",
+        "date": 1889,
+        "race": "White",
+        "stories": "When the Tsar granted amnesty, Kosciuszko immediately came to the United States where he sought both medical treatment and back pay from the military. Congress appropriated $15,000 and granted him 500 acres along the Scioto River where Columbus is now located."
+    },
+    {
+        "title": "Bust of Mikolaj Kopernik",
+        "location": "Detroit Public Library",
+        "artist": "Ferenc Varga",
+        "date": 1973,
+        "race": "White",
+        "stories": "To commemorate the 500th anniversary of the famous Polish astronomer, Mikolaj Kopernik, the Copernicus Observance Committee presented this statue to the city of Detroit. "
+    },
+    {
+        "title": "William Cotter Maybury Monument",
+        "location": "Grand Circus Park",
+        "artist": "Adolph Alexander Weinman",
+        "date": 1912,
+        "race": "White",
+        "stories": "Maybury “won local, if not national, renown as a baby-kisser. He just cooed his way into office telling mothers how beautiful their babies were,” the Detroit Free Press wrote in 1941."
+    },
+    {
+        "title": "Ludington Plaza Statues",
+        "location": "Wayne State University",
+        "artist": "Julius Theodore Melchers",
+        "date": "1870s",
+        "race": "White",
+        "stories": "Detroit’s first city hall was a small Greek revival structure designed by architect Alpheus White and completed in 1835. "
+    },
+    {
+        "title": "Russell Alexander Alger Memorial Fountain",
+        "location": "Grand Circus Park",
+        "artist": "Daniel Chester French",
+        "date": 1921,
+        "race": "White",
+        "stories": "The monument features a bronze statue of a woman about 7 feet tall wearing a headdress and a flowing gown and carrying a sword and a shield that bears the state seal. Her right hand is raised in greeting. She is the bronze personification of the state of Michigan."
+    },
+    {
+        "title": "Stevens Thompson Mason Statue",
+        "location": "Downtown Detroit",
+        "artist": "Albert Weinger",
+        "date": 1908,
+        "race": "n/a",
+        "stories": "This monument honors the man who led Michigan to statehood."
+    },
+    {
+        "title": "Merrill Fountain",
+        "location": "Historic District",
+        "artist": " John M. Carrere",
+        "date": 1901,
+        "race": "White",
+        "stories": "Palmer represented Detroit in the Michigan Senate in 1879 and 1880, and then was selected to represent Michigan in the U.S. Senate from 1883 to 1889. "
+    },
+    {
+        "title": "Bagley Memorial Fountain",
+        "location": "Campus Martius",
+        "artist": "Henry Hobson Richardson",
+        "date": 1887,
+        "race": "White",
+        "stories": "Richardson modeled the monument after a ciborium in St. Mark’s Basilica in Venice. The fountain stands more than 18 feet tall with ornate Romanesque details at the top and Byzantine columns. "
+    },
+    {
+        "title": "Levi L. Barbour Memorial Fountain",
+        "location": "Belle Isle",
+        "artist": "Marshall Fredericks",
+        "date": 1936,
+        "race": "White",
+        "stories": "His sculptures can be found in more than 150 public and corporate locations."
+    },
+    {
+        "title": "Monroe Monument Marker/Woodward Monument Marker",
+        "location": "Campus Martius",
+        "artist": "Herb Babcock",
+        "date": 2004,
+        "race": "white",
+        "stories": "To celebrate the tricentennial of the founding of Detroit, a major renovation of Campus Martius was undertaken with the installation of new works of art."
+    },
+    {
+        "title": "Nordkyn",
+        "location": "Wayne State University",
+        "artist": "Robert McKurray",
+        "date": 1974,
+        "race": "White",
+        "stories": "Innovation and clarity of vision have marked Robert Murray’s practice since the early 1960s, making him one of Canada’s foremost sculptors. "
+    },
+    {
+        "title": "Normanno Wedge I",
+        "location": "College for Creative Studies Ford Campus",
+        "artist": "Beverly Pepper",
+        "date": 1983,
+        "race": "White",
+        "stories": "All of Pepper's sculptures from the beginning of her sculptural career were displayed outdoors."
+    },
+    {
+        "title": "Charles Brook’s Memorial Peace Fountain",
+        "location": "Detroit River",
+        "artist": "n/a",
+        "date": 1977,
+        "race": "n/a",
+        "stories": "This fountain is assembled and put in place in May of every year and then removed with the onset of cold weather. "
+    },
+    {
+        "title": "Nancy Brown Peace Carillon",
+        "location": "Belle Isle",
+        "artist": "Clarence E. Day",
+        "date": 1940,
+        "race": "n/a",
+        "stories": "In 1970, the bells of the majestic tower went quiet. Vandals — who knocked out stained-glass windows at the top of the tower — and pigeons destroyed the mechanism that played the songs. "
+    },
+    {
+        "title": "Commodore Oliver Hazard Perry’s Canons",
+        "location": "Belle Isle",
+        "artist": "n/a",
+        "date": 1970,
+        "race": "n/a",
+        "stories": "Battle of Lake Erie hero Oliver Hazard Perry is characterized as being an all around patriot who saved the American cause during the War of 1812. "
+    },
+    {
+        "title": "Pewabic Pottery Company",
+        "location": "East Jefferson",
+        "artist": "William B. Stratton",
+        "date": 1907,
+        "race": "White",
+        "stories": "The building and its contents are designated a National Historic Landmark. Today, Pewabic is Michigan’s only historic pottery."
+    },
+    {
+        "title": "Phylon",
+        "location": "Hart Plaza ",
+        "artist": "Isamu Noguchi",
+        "date": 1973,
+        "race": "Asian",
+        "stories": "Pylon is a word of Greek origin referring to an Egyptian gateway structure that resembled a truncated pyramid.  "
+    },
+    {
+        "title": "Statue of Pope John Paul II",
+        "location": "Pope Park Hammtramck",
+        "artist": "Ferenc Varga",
+        "date": 1982,
+        "race": "White",
+        "stories": "This commemorates the Pope's visit to Hamtramck in September 22, 1969. Dedicated by Archbishop Edmund Szoka of Detroit."
+    },
+    {
+        "title": "Brigadier General Casmir Pulaski Statue",
+        "location": "Downtown Detroit",
+        "artist": "Ferenc Varga",
+        "date": 1970,
+        "race": "White",
+        "stories": "Pulaski was, seemingly, a very aggressive military leader who wanted to lead forces against the British. "
+    },
+    {
+        "title": "Father Solanus Casey Statue",
+        "location": "St Bonaventure Monastary",
+        "artist": "n/a",
+        "date": "n/a",
+        "race": "n/a",
+        "stories": "Solanus Casey was an American Capuchin friar and priest who was known during his lifetime as a wonderworker and is the first United States-born man to be declared \"venerable\" by the Roman Catholic Church."
+    },
+    {
+        "title": "Bust of Lewis Cass",
+        "location": "Detroit Public Library",
+        "artist": "Thomas D. Jones",
+        "date": 1845,
+        "race": "n/a",
+        "stories": "He was appointed governor of the Territory of Michigan in 1813 and served until 1831. His tenure was marked by good relations with the numerous Indian tribes under his jurisdiction. "
+    },
+    {
+        "title": "Starting Point of the July, 1967 Racial Riot",
+        "location": "9125 Twelfth Street at the corner of Twelfth and Clairmont",
+        "artist": "Jack Ward",
+        "date": "n/a",
+        "race": "White",
+        "stories": "Early on Sunday morning July 23, 1967; Detroit police raided a \"blind pig\" at this location expecting to find a few people violating the law by drinking in an unlicensed establishment."
+    },
+    {
+        "title": "Horace H. Rackham Memorial Fountain",
+        "location": "Detroit Zoo",
+        "artist": "Corrado Joseph Parducci",
+        "date": 1939,
+        "race": "White",
+        "stories": "The historic and famed Horace H. Rackham Memorial Fountain, located in the center of the Zoo, was built in 1939 and dedicated to the first president of the Zoological Commission. "
+    },
+    {
+        "title": "Father Gabriel Richard Statue",
+        "location": "Belle Isle",
+        "artist": "Leonard D. Jungwirth",
+        "date": 1940,
+        "race": "White",
+        "stories": "Father Gabriel Richard, a French priest assigned in 1798 to French-speaking Detroit, embraced the ideals of the Enlightenment and the French Revolution, and was a force behind the founding of the University of Michigan in 1817. "
+    },
+    {
+        "title": "The River of Knowledge Mosaic",
+        "location": "Detroit Public Library",
+        "artist": "Millard Sheets",
+        "date": 1963,
+        "race": "White",
+        "stories": "French architectural styles were increasing popular in the United States at this time so Anderson apparently toned down the Italianate styling in the ten- or eleven-year interval between designing the edifice and its completion."
+    },
+    {
+        "title": "Bust of Christopher Columbus",
+        "location": "Downtown Detroit",
+        "artist": "Augusto Rivalta",
+        "date": 1910,
+        "race": "White",
+        "stories": "Early in the 1960s, an attractive Cass Avenue entrance was added to the marvelous Detroit Public Library building that Cass Gilbert designed in the early 1920s. At this time two wings were added to the building. This Cass Avenue entrance features white marble facades, red columns and dark green marble."
+    },
+    {
+        "title": "Bust of Christoforo Columbo",
+        "location": "Oakman Boulevard ",
+        "artist": "Edward Chesney",
+        "date": 1975,
+        "race": "White",
+        "stories": "On October 12, 2015, a vandal put a hachet on the forhead of the sculpture of Christopher Columbus."
+    },
+    {
+        "title": "Johann Friedrich von Schiller Sculpture",
+        "location": "Belle Isle",
+        "artist": "Herman Martzen",
+        "date": 1907,
+        "race": "White",
+        "stories": "Schiller is one of the key figures in the history of German philosophic thought.  He is widely recognized as one of the most accomplished poets and dramatists to write in German. "
     },
     {
         "title": "Continuity Tower",
         "location": "West Grand Boulevard and Third Street",
         "artist": "Robert Sestok",
         "date": 1990,
-        "race": "White"
+        "race": "White",
+        "stories": "Robert Sestok welded together various pieces of steel that he found in Detroit to create an airy tower that gets more complicated as its height increases."
     },
     {
         "title": "The James Scott Fountain",
         "location": "Belle Isle",
         "artist": "Cass Gilbert",
         "date": 1925,
-        "race": "White"
+        "race": "White",
+        "stories": "The back of the chair holding Scott’s statue says: “For the enjoyment of the people and for the adornment of his native city. James Scott bequeathed to Detroit his fortune to be used in the construction of this fountain. Erected MCMXXIII. From the good deed of one comes benefit to many.”"
     },
     {
         "title": "George Armstrong Custer Equestrian Monument",
         "location": "North Monroe Street",
         "artist": "Edward C. Potter",
         "date": 1992,
-        "race": "White"
+        "race": "White",
+        "stories": "The statue shows Custer wearing his Civil War uniform; in keeping with sculptural convention, his horse has , all four feet on the ground, as Custer did not die during that period of service."
     },
     {
         "title": "Sentinel X",
         "location": "Downtown Detroit",
         "artist": "Morris Brose",
         "date": 1979,
-        "race": "N/a"
+        "race": "White",
+        "stories": "Morris Brose is a sculptor from Detroit, Michigan born in Poland."
     },
     {
         "title": "Dancing Maidens",
         "location": "Wayne State University",
         "artist": "Oskar Stonorov",
         "date": 1973,
-        "race": "White"
+        "race": "White",
+        "stories": "Stonorov died when Reuther's Gates Learjet 23 crashed on approach to Emmet County Airport in Pellston, Michigan. Also killed were Reuther's wife, his bodyguard, and the plane's pilot and copilot."
     },
     {
-        "title": "Partners: The Detroit Evening News Sculpture",
+        "title": "Partners",
         "location": "Belle Isle",
         "artist": "Frederick Dunbar",
         "date": 1897,
-        "race": "White"
+        "race": "White",
+        "stories": "This sculpture depicts a figure of a young newsboy dropping coins from one hand into another. Under his left arm he holds a bundle of papers, and over his left shoulder he carries a blacking kit. His dog sits at his feet."
     },
     {
         "title": "The Reverend Samuel Francis Smith Memorial Flagpole",
         "location": "Belle Isle",
-        "artist": "Kahn",
+        "artist": "Albert Kahn",
         "date": 1932,
-        "race": "White"
+        "race": "White",
+        "stories": "This flagpole on Belle Isle pays tribute to the Rev. Samuel Francis Smith, who wrote the song “America (My Country, ‘Tis of Thee).”"
     },
     {
         "title": "Passo di Danza",
         "location": "One Woodward Building",
-        "artist": "Giacoma Manzu",
+        "artist": "Giacomo Manzu",
         "date": 1962,
-        "race": "White"
+        "race": "White",
+        "stories": "In 1939 Manzu started a series of bronze bas-reliefs about the death of Jesus Christ; the works, exhibited in Rome in 1942, were criticized by the Fascist government and the ecclesiastical authorities."
     },
     {
-        "title": "Horace E. Dodge and Son Memorial Fountain",
-        "location": "Hart Plaza ",
-        "artist": "Isamu Noguchi",
-        "date": 1973,
-        "race": "Asian"
-    },
-    {
-        "title": "Thomas Alva Edison Memorial Fountain",
+        "title": "Edison Memorial Fountain",
         "location": "Grand Circus Park",
         "artist": "n/a",
         "date": 1984,
-        "race": "n/a"
+        "race": "n/a",
+        "stories": "The plaque on the fountain reads: \"Erected by the people of the citty of Detroit in commemoration of the achievements of Thomas Alva Edison the realm of electricity October twenty-first in the year one thousand nine hundred twenty-nine.\""
     },
     {
         "title": "The Entrance",
         "location": "Harmonie Park",
         "artist": "John Piet",
-        "date": 1975
+        "date": 1975,
+        "race": "White",
+        "stories": "Piet received the key to the city during the dedication of his sculpture. The 22-foot sculpture was commissioned by the city to commemorate the International Theatre Olympiad, held in Detroit in 1975. "
     },
     {
         "title": "Henry Ford Statue",
         "location": "Henry Ford Centennial Library",
         "artist": "Marshall Fredericks",
         "date": 1975,
-        "race": "White"
+        "race": "White",
+        "stories": "The original plan was to have a statue of Henry Ford and a little boy, symbolizing encouragement in business and industry to future generations. "
     },
     {
         "title": "Mozarabe",
         "location": "College for Creative Studies Ford Campus",
         "artist": "Richard Serra",
         "date": 1947,
-        "race": "White"
+        "race": "White",
+        "stories": "While at Yale, Serra worked with Josef Albers on his book The Interaction of Color (1963). "
     },
     {
         "title": "Grand Couple",
         "location": "College for Creative Studies Ford Campus",
-        "artist": "Etienne Martin",
+        "artist": "Henri Étienne  Martin",
         "date": 1947,
-        "race": "White"
+        "race": "White",
+        "stories": "During World War II Étienne Martin was a prisoner in Germany and was liberated in 1941."
     },
     {
         "title": "Goddess of the Golden Thighs",
         "location": "College for Creative Studies Ford Campus",
         "artist": "Reuben Nakian",
         "date": 1964,
-        "race": "White"
+        "race": "White",
+        "stories": "This unnamed, archetypal goddess, with her massive, splayed thighs supported on a primitive altar of rough-hewn pillars, is a potent symbol of fertility. According to the artist, she represents “the birth of the universe.” "
     },
     {
-        "title": "Transcending",
+        "title": "Transcending Arch",
         "location": "Hart Plaza ",
         "artist": "David Barr",
         "date": 2003,
-        "race": "White"
+        "race": "White",
+        "stories": "The arch was commissioned as a Michigan Labor Legacy Landmark to recognize the contributions of the city's laborers and skilled tradespeople. "
     },
     {
         "title": "Trilogy Sculpture",
         "location": "Orchestra Place Building",
         "artist": "Louise Nevelson",
         "date": 1979,
-        "race": "White"
+        "race": "White",
+        "stories": "Nevelson carefully arranged the objects in order to historicize the debris within the new, narrative context of her wall sculptures. The stories embodied within her works resulted from her cumulative experiences - as a Jewish child relocated to America from Russia, as an artist training in New York City and Germany, and as a hard-working, successful woman. "
     },
     {
         "title": "Harriet Tubman Statue",
         "location": "Pocket Park",
         "artist": "Jane DeDecker",
         "date": 2006,
-        "race": "White"
+        "race": "White",
+        "stories": "The bronze sculpture depicts Miss Tubman grasping the hand of a young boy and leading him on a walk.  DeDecker captures both compassion and a steely determination in the features of Miss Tubman’s face."
     },
     {
         "title": "Gracehoper",
         "location": "Detroit Insitute of Arts",
         "artist": "Tony Smith",
         "date": 1972,
-        "race": "White"
+        "race": "White",
+        "stories": "Artist statement: \"I think of the Gracehoper as intimate rather than monumental. People have some sensuous connection with this work. They can move around it, walk under it, go through it.\""
     },
     {
         "title": "Grand Army of the Republic Memorial",
         "location": "Belle Isle",
         "artist": "n/a",
-        "date": "n/a",
-        "race": "n/a"
-    },
-    {
-        "title": "Statuary and Memorial Commemorating Detroit's Role in \nthe Underground Railroad",
-        "location": "Detroit Riverwalk",
-        "artist": "Ed Dwight",
-        "date": 2001,
-        "race": "Black"
+        "date": 1948,
+        "race": "n/a",
+        "stories": "The Grand Army of the Republic (GAR) was founded in Decatur, Illinois in 1866 and, quite rapidly, became the largest and most powerful of the Union Army veterans group.  "
     },
     {
         "title": "Statue of Ernie Harwell",
         "location": "Comerica Park",
-        "artist": " Lou Cella",
+        "artist": "Lou Cella",
         "date": 2001,
-        "race": "White"
+        "race": "White",
+        "stories": "Someone ripped the original eyeglasses off the statue in 2011."
     },
     {
         "title": "Bust of Dr. Martin Luther King, Jr",
         "location": "12th Street",
         "artist": "Oscar Graves",
         "date": 1981,
-        "race": "Black"
+        "race": "Black",
+        "stories": "Although Martin Luther King Jr. today is often remembered as being an amazing public speaker, he got a C in public speaking during his first year at seminary."
     },
     {
-        "title": "Nydia, the blind girl of pompeii",
+        "title": "Nydia, the Blind Girl of Pompeii",
         "location": "Detroit Insitute of Arts",
-        "artist": "Randolph Rogers",
+        "artist": "Randolph John Rogers",
         "date": 1850,
-        "race": "White"
-    },
-    {
-        "title": "Thomas Edison Memorial Fountain",
-        "location": "Grand Circus Park",
-        "artist": "n/a",
-        "date": 1929,
-        "race": "n/a"
+        "race": "White",
+        "stories": "This statue is based on a character from Edward Bulwer-Lytton’s popular 1834 novel \"The Last Days of Pompeii.\" In the episode depicted here, Nydia and her two companions attempt to flee the city after the eruption of Mount Vesuvius. "
     },
     {
         "title": "Detroit Deliquescence",
         "location": "College for Creative Studies Taubman Campus",
         "artist": "John Chamberlain",
         "date": 1979,
-        "race": "White"
+        "race": "White",
+        "stories": "The 17-foot sculpture was executed out of salvaged auto parts."
     },
     {
-        "title": "Untitled",
-        "location": "The Belt",
-        "artist": "Hush",
-        "date": 2012,
-        "race": "White"
+        "title": "Heidelberg Project",
+        "location": "Heidelberg St.",
+        "artist": "Tyree Guyton",
+        "date": 1986,
+        "race": "Black",
+        "stories": "Tyree Guyton has waged a personal war on urban blight on Detroit's East Side, transforming his neighborhood into a living indoor/outdoor art gallery."
     },
     {
-        "title": "Paint it Black",
-        "location": "The Belt",
-        "artist": "Shepard Fairey",
+        "title": "The X and Its Tail",
+        "location": "College for Creative Studies Ford Campus",
+        "artist": "Alexander Calder",
+        "date": 1967,
+        "race": "White",
+        "stories": "Calder’s kinetic sculptures are regarded as being amongst the earliest manifestations of an art that consciously departed from the traditional notion of the art work as a static object and integrated the ideas of gesture and immateriality as aesthetic factors."
+    },
+    {
+        "title": "Ashtabula",
+        "location": "College for Creative Studies Ford Campus",
+        "artist": "Michael D.Hall ",
+        "date": 1972,
+        "race": "White",
+        "stories": "Hall is the last artist to be awarded the top honor at the DIA's final version of the annual Exhibition of Michigan Artists in the 1980's. "
+    },
+    {
+        "title": "United We Stand",
+        "location": "The Wright Museum",
+        "artist": "Charles McGee",
+        "date": 2016,
+        "race": "Black",
+        "stories": "The abstract figures with arms outstretched signify people coming together to commemorate the 50th anniversary of the Detroit Riots."
+    },
+    {
+        "title": "Baphomet",
+        "location": "Detroit Chapter of the Satanic Temple",
+        "artist": "The Satanic Temple",
         "date": 2015,
-        "race": "White"
+        "race": "n/a",
+        "stories": "Baphomet, the goat-headed wraith who, after centuries of various appropriations, is now the totem of contemporary Satanism. The horned idol sits on a throne adorned with a pentagram and his legs end in hooves. It might seem more menacing if not for the two bronze-statue children standing on either side of him — a girl on his left; a boy on his right; both are looking up at him earnestly."
     },
     {
-        "title": "Facet",
-        "location": "The Belt",
-        "artist": "Tiff Massey",
-        "date": "n/a",
-        "race": "Black"
+        "title": "6.4.3",
+        "location": "Detroit Athletic Club",
+        "artist": "A. Thomas Schomberg",
+        "date": 2015,
+        "race": "White",
+        "stories": "This sculpture depicts a second baseman throwing a runner out at first base and is located in the sculpture park outside the Detroit Athletic Club."
     },
     {
-        "title": "Untitled",
-        "location": "The Belt",
-        "artist": "REVOK (Jason Williams",
-        "date": "n/a",
-        "race": "White"
+        "title": "The Finish",
+        "location": "Detroit Athletic Club",
+        "artist": "A. Thomas Schomberg",
+        "date": 2015,
+        "race": "White",
+        "stories": "“Schomberg has a great style representing the intensity of sports and athletics…The sculptures will be a very visible and dramatic statement about renewal in Detroit and a landmark moment in the Detroit Athletic Club’s history in the community.”-Ted Gillary, the club’s executive manager"
     },
     {
-        "title": "Untitled",
-        "location": "The Belt",
-        "artist": "Patrick Martinez",
-        "date": "n/a",
-        "race": "Latino"
+        "title": "Tigers",
+        "location": "Comerica Park",
+        "artist": "Michael Keropian",
+        "date": 2000,
+        "race": "White",
+        "stories": "The tiger at the North Gate is 15 feet tall. Several more grace the façade plus two atop the left field scoreboard have eyes that light up after each home run. "
+    },
+    {
+        "title": "Whatsoever You Do",
+        "location": "Historic Trinity Lutheran Church",
+        "artist": "Timothy Schmalz",
+        "date": 2016,
+        "race": "White",
+        "stories": "According to Schmalz, the sculpture is a visual representation of the Gospel of Matthew 25:40, which depicts Jesus in the form of a homeless man."
+    },
+    {
+        "title": "Jesus The Homeless",
+        "location": "Ss. Peter and Paul Jesuit Catholic Church ",
+        "artist": "Timothy Schmalz",
+        "date": 2015,
+        "race": "White",
+        "stories": "This is a statue of a man (Jesus Christ) with crucifixion marks on his feet sleeping on a park bench."
+    },
+    {
+        "title": "The Procession (A Family)",
+        "location": "Blue Cross Blue Shield of Detroit ",
+        "artist": "John Nick Pappas",
+        "date": 1977,
+        "race": "White",
+        "stories": "Thirteen nude figures grouped together in various poses in a fountain. Three figures carry a woman balances a small child on her proper right hip. One woman lies on her proper left side with her abdomen cut; while another figure dives or tumbles with his feet protruding from a wall. Another woman stands holding a baby."
+    },
+    {
+        "title": "Book Sculpture",
+        "location": "Detroit Lakes Public Library",
+        "artist": "Hans Gilsdorf",
+        "date": 2015,
+        "race": "White",
+        "stories": "Gilsdorf's idea for the sculpture was for kids to be able to interact with the piece."
+    },
+    {
+        "title": "The Man in the City",
+        "location": "Detroit",
+        "artist": "John Suave",
+        "date": "2010s",
+        "race": "White",
+        "stories": "Artist statement: \"It can be a frightening image a times, it can be someone you are, or someone you might be. I don’t want to plant too many seeds, because everyone has their own identification with it. I like people to embrace it for what it is and make it their own.\""
+    },
+    {
+        "title": "Charles Lang Freer House Historical Marker",
+        "location": "Ferry Street",
+        "artist": "n/a",
+        "date": "2000s",
+        "race": "n/a",
+        "stories": "Charles Lang Freer House Historical Marker is also close to The Merrill-Palmer Institute Historical Marker and Omega Psi Phi Historical Marker."
     }
 ]
